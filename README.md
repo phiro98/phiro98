@@ -36,8 +36,8 @@ Backend & Cloud Software Engineer with 4+ years of experience designing and depl
 
 ### 🌐 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/phiroze-chowdhury-01a449188)
-- **Email:** [your-email@example.com](mailto: phiroze.pc14@gmail.com)
+- **LinkedIn:** [linkedin.com/in/phiroze-chowdhury-01a449188](https://www.linkedin.com/in/phiroze-chowdhury-01a449188)
+- **Email:** [phiroze.pc14@gmail.com](mailto:phiroze.pc14@gmail.com)
 
 <!-- Optional GitHub Stats Tracker: replace `your-github-username` -->
 <!--
